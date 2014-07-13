@@ -26,7 +26,6 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 #content-1 {
     float:left;
     width:240px;
-    background:#bfb;
 }
 #content-2 {
     float:right;
@@ -35,14 +34,11 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 #content-2-1 {
     float:left;
     width:480px;
-    background:#ddf;
 }
 #content-2-2 {
     float:right;
     width:240px;
-    background:#dff;
 }
 #footer {
     clear:both;
-    background:#ff9;
 }
