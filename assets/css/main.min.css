@@ -27,16 +27,18 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
     float:left;
     width:200px;
     margin-left: 50px;
+    padding-right: 10px;
 }
 #content-2 {
     float:right;
     width:400px;
     margin-right: 50px;
-    padding-left: 10px;
 }
 #content-2-1 {
     float:left;
     width:400px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 #content-2-2 {
     float:right;
