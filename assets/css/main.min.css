@@ -41,6 +41,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 #content-2-2 {
     float:right;
     width:200px;
+    padding-left: 10px;
 }
 #footer {
     clear:both;
