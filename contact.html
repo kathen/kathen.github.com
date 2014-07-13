@@ -3,10 +3,6 @@ layout: page
 permalink: /contact/
 title: Contact
 description: "Where I am."
----
 
-<ul class="post-list">
-{% for post in site.posts %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+---
+<img src="{{ site.url }}/images/katie_henry_2.jpg" class="entry-feature-image" alt="{{ page.title }}" style="margin:0px 50px;">
