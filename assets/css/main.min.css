@@ -42,3 +42,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
 #footer {
     clear:both;
 }
+ul
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
