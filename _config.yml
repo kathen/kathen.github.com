@@ -33,12 +33,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
   - title: About
     url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Publications
+    url: /publications/
   - title: Contact
     url: /contact
 #  - title: Made Mistakes
